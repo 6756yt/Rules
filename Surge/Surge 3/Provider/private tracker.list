@@ -69,8 +69,6 @@ DOMAIN-SUFFIX,nzbs.in
 DOMAIN-SUFFIX,hdf.world
 DOMAIN-SUFFIX,cinematik.net
 DOMAIN-SUFFIX,beyond-hd.me
-DOMAIN-SUFFIX,sorry.lw604.usbx.me
-DOMAIN-SUFFIX,sorry.oblivion.usbx.me
 DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,openlook.me
 DOMAIN-SUFFIX,blutopia.xyz
@@ -80,3 +78,6 @@ DOMAIN-SUFFIX,thegeeks.click
 DOMAIN-SUFFIX,theshow.click
 DOMAIN-SUFFIX,theempire.click
 DOMAIN-SUFFIX,theoccult.click
+# > Seedbox
+DOMAIN-SUFFIX,sorry.lw604.usbx.me
+DOMAIN-SUFFIX,sorry.oblivion.usbx.me
